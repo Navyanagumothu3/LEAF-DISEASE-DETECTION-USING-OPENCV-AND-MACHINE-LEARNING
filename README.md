@@ -25,19 +25,13 @@ Organized into folders by class and split into train/validation
 - Gradio  
 - Matplotlib, Seaborn  
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
 
-📈 Results
+## 📈 Results
 Works on small datasets 
 Accuracy improves with more images or transfer learning.
 Includes confusion matrix and classification report for evaluation.
 
-<img width="1280" height="497" alt="image" src="https://github.com/user-attachments/assets/aef7e24e-4aeb-4426-92ae-f9804b1d5023" />
-
-
-💡 Future Work
+## 💡 Future Work
 Add more images per class
 Use transfer learning (MobileNet, ResNet)
 Deploy as a cloud web app
